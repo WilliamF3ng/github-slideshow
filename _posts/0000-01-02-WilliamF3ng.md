@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+THIS IS A FAKE SLIDE, PLS PROCEED TO NEXT SLIDE 
 Use the left arrow to go back!
